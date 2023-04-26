@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\bin\Debug\Ispravak2.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\bin\Debug\Ispravak2.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\bin\Debug\Ispravak2.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\obj\Debug\Ispravak2.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\obj\Debug\Ispravak2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\obj\Debug\Ispravak2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\obj\Debug\Ispravak2.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ispravak\Ispravak2\Ispravak2\obj\Debug\Ispravak2.pdb
